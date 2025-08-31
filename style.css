@@ -1,0 +1,13 @@
+body{
+   margin: 0%;
+   display: flex;
+   justify-content: center;
+   height: 100vh;
+   align-items: center;
+   background-color: rgb(138, 15, 254); 
+
+   font-family: 'Tangerine', serif;
+        font-size: 48px;
+        text-shadow: 4px 4px 4px #aaa;
+
+}
